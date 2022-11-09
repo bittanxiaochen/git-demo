@@ -1,11 +1,8 @@
 hello world! hello git! 222222
-
 hello world! hello git! 3333333
-
 hello world! hello git! master test
-
 hello world! hello git!	hot-fix test
-
 remote modification 111111
 hello22222222222222222 by lhc
 hello33333333333333333 by dongfang
+optimization by bittanxiaochen
